@@ -1,0 +1,659 @@
+AHGPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ARHSSLF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CRAPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HFHSIWS  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+HSSIWNC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LFLWYLW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+MCFSSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NHGPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QIYSSLF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QVIASSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QVQSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QVVHSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RGLHSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RMSSLCY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RRHSSLG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RRSSLYT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RYWVAWT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SSIIMRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLFSSY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLGSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLHAPS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIIRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLILRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMCM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMHM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMRI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMRR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMRT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMRV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMSM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLITRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIVRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTMRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLVMRM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLSFT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SYSSIGS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THAPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THEPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THGLSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THGPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THGSSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THGTSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TRGPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TYGPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VSGCSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WALWFWT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WCLWVLD  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WQRWRLD  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YMSSLCY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ASRYSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ASSLSET  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CSHESSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CSSIQTH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DCSSLLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DLLSSLR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DSSLKSN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ELSSLLN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ERTHSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ESVCSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ETSSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FCYSSLI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FHPQSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FHSSLLQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FLSSISR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FMCSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FSLSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FSSLSRQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GGHLSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GLKMSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GNPSSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GSSIKIC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GSSLPLR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GSSLSKT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GSVWRTW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+GTKTSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GTSSIWL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HPGSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HSSLKQH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HSSLTSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+IPSSLTH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ISSIQSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ISSLLSS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KLSSIAL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KQWVSWY  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LPSPRMG  _P-S-P-[RK]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSSLVDC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MCSSLQV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MFNASSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MLASSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MSSIQIT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MSSLTPC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MSSSISP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NGRSSIN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NSSLLSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NSSLRSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PAVGSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PCISSLI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PEFSSLK  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PHNSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PNQSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PNQSSLR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PPSSLCY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PRLSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSLTRC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSLVLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PWCTWHI  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+QGSSSLT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QLLQRSV  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QNQCSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QNQYSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QSSIVWS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QVLQVPP  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QYISSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RKSSLLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RLFISSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RLFWNLW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+RLYSSLT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RMNSSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RPMSSLF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RPSSSIC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RPSSSLI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RRSSLRT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSGSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSGWNCW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+RSSIAVT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSSLLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSSSIC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSSSIR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RVSSLCD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RVSSLRK  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SAHSSLR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SARISSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SCCGSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SCSSIPT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SCSSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SFQVVQL  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SGCGSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SGINSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SHNPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SHNSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SKYTSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SLSSITR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SLSSLSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SRFHNPW  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SRSSLVY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSGSSLT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIKDCR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSINIGT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIPASM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLARSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLCDLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLCERH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLCGRW  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLCNNY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLHSWT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLHTQV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIPSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLITYC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLSIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLNYFA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLQMCS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLRCHR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLRCTQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLRSVC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTRFP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTRTC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTVLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSIVAP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLALC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLLYG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLVLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SWCGSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THHSSIH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TRSSLCA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TSSISAS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TSSLSCA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TVSSSIN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TVSSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VCLSSIA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VCLSSLA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VGFSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VTPSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VWRNWIC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WCDWGRV  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WLSWGSG  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WNCWAQM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WRSWCSP  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WRSWGST  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WSRWQSF  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WSSSLHE  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WSVSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WTTWMTA  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WVSSIGP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WWAWTRV  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YGIRSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YHSSISH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YSSIGIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YSSSLLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ADCSSIP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AFHVRWI  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+AFHVWWI  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+AFHVWWT  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+ANSSLLW  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ARSSLTC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ARWCIWC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+ASSLAVY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ATFSSIH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AYPQLVQ  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DARFSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DSSSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DWGFWAM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+EHSSLDH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FGVSSLG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FMDPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FMGPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FPSPRRQ  _P-S-P-[RK]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GKPFSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GWEFWAM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+GWGFWAM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+GWGFWAT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+GWGLWAM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+HFESSLP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HWYTWDS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IAGSSIF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ISSLMSV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+IYQSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KISWGTW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+KTRSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LDQVLQC  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LQESSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LRESSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSSICIQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSSICTQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSSLRSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSWYQWF  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LWESSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LWESSLR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LWGSSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MKDSSLE  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MLDWSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MQSSIAT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NAPSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NLSSLPC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NLSSLYA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NPSSLYA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NRSSLYA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NSHISSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NSSISFI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NSSSLST  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NWSSLCA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NWSSLHA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NWSSLYA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NWSSLYT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NWSSLYV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PCSSLRA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSRSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSLDHI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSLDHM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSLDHV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSLLGC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PVQSSIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PWRGWVH  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+QISSLVC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QLVQLEI  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QVLQAHC  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QWESSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RGSSLYY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RPGSSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RRTSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLHRS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RVSSIYV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RWSIWTN  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+RYPWSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SAFSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SCMSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SLCPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SLGSSLY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SMDPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SPHISSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SPHPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SQWSSLR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SRGLSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSHISSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSHSSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIFSNC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIFSNW  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIHHPT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLAQTN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLAVHH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLELLQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLFYMQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIHFD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLIMFH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLISLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLFTM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLMSV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLNPRS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLPAFL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLRKAL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLRLVC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLRSCY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLRSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSAFI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSAFL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSALL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSHPT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLWDLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLYIMF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSILQC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLGLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLLIL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+STGSSII  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SVSSIYV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SWESSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SWGFWAM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SWSSLYA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TCYSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TFHVWWI  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+TQQLVQI  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TRWCIWC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VFHVWWI  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSSSSLR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VTSSLCP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VWGFWAM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WAGWCPS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WFHWYQC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WFYWFLL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WISSLYN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WKGSSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WLGSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WRSWGST  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WSQWTSG  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WSSLKDF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WSSLRDF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WSSLSCH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WSYWDLF  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WVSSIYV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YGLLSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YQSWFHW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YSSIGSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YSSIVRR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YVSSIYV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YWLASSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YWRFWDL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YWWIWLQ  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YWYTWDS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YYWHWLS  _WHW  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+ACSSLCS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AESSINC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AEWHPWL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+AFVWLKW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+AHLFSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ASLWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+ATPSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AVFCSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AVHSSIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AVHSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AVRSSIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AWTWSYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+AYLFSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+AYSLSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CCASSIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CCRRSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CCSSLNC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CCSSLQN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CKSSLMC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CQSCSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CSSLDLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+CSSLFRT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DFSSLAS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+DQHWCAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+ECLFSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ELSSIHD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ENAWCSW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+ESLWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+ESYCSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+EWCHWQS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+EWFSWVR  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+FPFSSLG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FPGSSLA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FSGKSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FSSLAVP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FSSLHPY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FSSLVNC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FSSLWSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FTLISSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FTVSSIV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FWSSLRL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+FWTRWQS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+FYWSDWL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+GCSSIPC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GCSSSIC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GHSSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GISSLLI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GPSSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GRSSLSM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GSSLMHN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+GVSSLVC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HHSSLIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HSSLQPA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HSSLQPV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+HSSSLGE  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+IAAWTAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IAIWTAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IAQSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+IAVWAAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IAVWKAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IAVWTAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IAVWTVW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IMWNCWY  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IQPSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ISSICCC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+ISSILCG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+IVTCSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+IVVWTAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+IWAEWVL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+KACSSLV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KSSIQTC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KSSLQLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KSSLSCL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KSSSLKC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+KWWPWKA  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LEKWCYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LKWSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LRSSLYC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSAWIYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LSSINQT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSSLPCI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LSVWIYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LSVWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LWEHWVM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+LYNLSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+LYNPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MCTSSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MCWLHWC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+MCYPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MDWWLNW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+MGSSIKV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MLFSSLV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MLWCGWT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+MSLWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+MVGSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+MWWVWDS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+NCSLSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NCSSLVI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+NPWQLWV  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+NSWQLWV  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+NWRCWLC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+NWWSWRK  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+PARSSLG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PCSSLMD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PFQSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PGLNSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PGTCSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PHSSLST  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PMCSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PNLRSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSIQSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSSLSTC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSVKSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PSVWIYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+PTSSLPC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PTTSSIT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+PVSWCPW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+PWLSWLQ  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+PWRAWNC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+QAFSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QASSLLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QASTSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QCGTSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QEASSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QLLQRCP  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QSSIPHR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QSSLRCT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QTCSSLD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QVVQRCM  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+QWAPWLL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+QWNPWER  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+QYLSSLP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RARSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RASSIAS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RHISSLT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RILSSLK  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RLQVLQR  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RPQLVQI  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RPSSLHP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RQSCSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSPSSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSIAFL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSINST  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSISPC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLARC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLCKG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLCPT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLGGV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLHTG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLRNG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RSSLTSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RTRSSLD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RVSSLSA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RYLCSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RYLQLLQ  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+RYWSDWL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SCCPSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SCHSSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SCSSLVI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SECSSIP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SFHAWWL  _F-H-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SGCSSLT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SGLSSIC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SGSSLVC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SHPSPRF  _P-S-P-[RK]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SLRWDQW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SLSHSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SLSSLSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SMSDSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SMWQRWR  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SQSSIHT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SRQSSLY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SRSSLSM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SRSSSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SRSSSLY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SRWRQWC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SSGSSLT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIGIQL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIIPRC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIPFNP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIPNLI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSISDPR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSISNPR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSIVVRC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLASSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLCSHT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLFRET  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLFSAC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLGCHC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLGMQQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLGQEC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLHCWV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLHSSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLKCVY  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLKDYV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLKRVM  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLKSPR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLLSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLSAR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLSSR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLVFC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLLYAR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLNSCH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLPCTL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLPMSP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLPQSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLQPKS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSCHS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSDPC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSIFP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSIFS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSILS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSISS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSNLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSSLN  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSTFS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLSVTL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTKAT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTLWC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTQIA  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTVLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLTVRC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLVTCD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLWPSG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLYSSC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSLYSSW  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLSAV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSLSCC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSSLTQ  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSSSLVP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SSVKSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+STDSSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+STRHSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+SWLMWSC  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+SWNSSLP  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TAVWTAW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+THPSSII  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+THWTSWT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+TKCWKDW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+TRQLVQD  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TSSLGLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TSSLSLC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+TWGSWFD  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VALWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VCNSSIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VFLWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VHASSLG  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VKSSSIS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VLCSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VLSSLVS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VNSSLHC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VSLWAYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWMYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWPYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWSYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWTCW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWTDW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWTHW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWTNW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSLWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSPWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VSQLLQC  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VSSLCRV  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VSSLSPL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VTLWTYW  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+VTTWSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VTYSSLS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VVISSIL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+VVPSPKS  _P-S-P-[RK]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WATWCSL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WCAWEFF  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WDQWQST  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WERWFSP  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WGCWTND  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WHTWSNL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WLAWWWL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WLDWNTS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WLKWVPS  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WLNWTSF  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WLPWIQG  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WMWWIPP  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WNGCSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WNHWCAD  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WNVWSCN  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WPWWTLT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WQAWQGT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WQTWSTM  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WSSLFPC  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WSSLTSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WSSSLPL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+WSSWEVG  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WTPWVFT  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+WVCWKHR  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YCLRSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YHISSLT  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YHSSLGD  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YLSPSSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YPQLVQI  _Q-[LV]-[LV]-Q  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YSASSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YSPSSLL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YSSLDRR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YSSLTSI  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YTASSLF  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YTGTSSL  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YTVSSLH  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YVSSLFS  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YVSSLMR  _S-S-[IL]  _Confirmed or suspected binder to immunoglobulin Fc Region. If your target is antibody with Fc Region, Pay attention!
+YWNLWTV  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
+YYWSDWL  _W-x(2)-W  _Confirmed or suspected plastic binder. Blocking steps do not necessarily eliminate all plastic binders. Pay attention!
