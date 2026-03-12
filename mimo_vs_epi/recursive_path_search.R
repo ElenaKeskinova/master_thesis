@@ -1,3 +1,4 @@
+# same principle as mimotree
 pepmatch = function(pep,g,simmat = simm_,cutoff = 0){ #returns all paths
   require(igraph)
   np = nchar(pep)
