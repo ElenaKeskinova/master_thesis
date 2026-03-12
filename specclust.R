@@ -33,7 +33,8 @@ specclust <- function(ab, lg,bc) {
   #proj on sphere
   projS=coord/(sqrt(rowSums(coord^2)))
   #dbscan
-  nn = opdim*2
+  opdim = opdim-1 # first eigenvector is not used
+  nn = opdim*2 
   knnd=kNNdist(projS,nn)
   knnd=sort(knnd)
   

@@ -1,5 +1,3 @@
-
-
 # transform data from length 8 and 10 to length 7 ----
 abs = c("Herceptin","b12","17b","21c")
 for(ab in abs[1:4]){
@@ -8,6 +6,8 @@ for(ab in abs[1:4]){
   path8 = paste0("Exp12.f_UNI-8/", ab,"/")
   files8 <- list.files(path = path8, pattern = "uniqueP_[[:upper:]]{5}.txt", full.names = TRUE)
   
+  if(ab ==  "b12"){files = files[2:4]; files8 = files8[2:4]} # only the three replicates
+  print(paste(basename(files),basename(files8)))
   #get all peps together for length 10
   AllPep = data.frame()
   for (f in files){
@@ -88,5 +88,5 @@ for(ab in abs[1:4]){
   # only peps with frequencies >1 , for graphs
   
 }  
- 
+
 

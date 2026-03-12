@@ -35,6 +35,49 @@ for(ab in abs[1:3]){
   specclust(ab,lg,bc = "logw")
 }
 
+## results from spectral clustering ----
+bc = "logw"
+dbsc_results = lapply(abs,\(ab){
+  path = paste0("mixed-7graphs/",ab,"/")
+  load(file = paste0(path,ab,"_",bc,"_","dbscan.RData"))
+  result_db
+})
+
+spect_results = lapply(abs,\(ab){
+  path = paste0("mixed-7graphs/",ab,"/")
+  load(file = paste0(path,ab,"_",bc,"_","speccoord.RData"))
+  coord
+})
+
+### plots for thesis ----
+par(mfrow = c(2,2), mar = c(3,3,2,2))
+for(i in 1:4){
+  plot(dbsc_results[[i]][[5]],dbsc_results[[i]][[4]], xlab =  "",ylab =  "",main =abs[i])
+  j = which.max(dbsc_results[[i]][[4]])
+  points(dbsc_results[[i]][[5]][j],dbsc_results[[i]][[4]][j], col =  "red",pch = 16)
+  if(i>2){mtext("radius", side = 1, line = 3)}
+  if(i%%2==1){
+    mtext("clusters",side = 2,line = 3)
+  }
+}
+
+for(a in 1:4){
+  ab = abs[a]
+  path = paste0("mixed-7graphs/",ab,"/")
+  load(paste0(path,ab,"big7-logw.RData"))
+  i = which.max(igraph::components(lg)$csize)
+  g = subgraph(lg,V(lg)[igraph::components(lg)$membership == i])
+  bc = "logw"
+  load(file = paste0(path,ab,"_",bc,"_","dbscan.RData"))
+  cldbsc = result_db[[1]]
+  ncl = result_db[[2]]
+  subgraphs = sapply(1:(ncl-1),\(i){
+    subgraph(g, which(cldbsc == i))
+  })
+  compno = sapply(subgraphs, \(g) igraph::components(g)$no)
+  hist(compno,main = ab,xlab =  "", breaks = seq(0,max(compno)+1))
+  if(a>2){mtext("connected components per cluster", side = 1, line = 3)}
+}
 
 ## plot 3d graphics of clusters ----
 ab = abs[2]
@@ -62,44 +105,67 @@ table(cldbsc)
 # make pepsets ---- 
 source("dbclust.R")
 
-allpepsets_w = future_lapply(abs, \(ab){
+db_lcssets = lapply(abs,\(ab){
   path = paste0("mixed-7graphs/",ab,"/")
+  
+  load(paste0(path,ab,"big7-logw.RData"))
   bc = "logw"
-  load(paste0(path,ab,"big7or.RData"))
-  load(paste0(path,ab,"big7-",bc,".RData"))
-  
   load(file = paste0(path,ab,"_",bc,"_","dbscan.RData"))
-  load(file = paste0(path,ab,"_all_lcs.RData"))
+  load(file = paste0(path,ab,"_",bc,"_","speccoord.RData"))
   
-  pepsets = gen_pepsets(lg,G,edg_lcs,result_db)
-  save(pepsets, file = paste0(path,ab,"_peps_w.RData"))
-  pepsets
-  
+  opdim = ncol(coord)
+  gen_lcssets(lg,result_db,opdim)
 })
-names(allpepsets_w) = abs
+db_lcssets5 = lapply(db_lcssets,\(absets){
+  lapply(absets,\(set){
+    c(unlist(sapply(set,\(pep){
+      if(nchar(pep)==6){
+        sapply(1:6,\(i) paste0(substr(pep,1,(i-1)),substr(pep,(i+1),6)))
+      }
+      else{
+        pep
+      }
+    })))
+  })
+})
 
-allpepsets_w = lapply(abs, \(ab){
+names(db_lcssets5) = abs
+plan(multisession(workers = 4))
+db_pepsets = future_lapply(abs,\(ab){
   path = paste0("mixed-7graphs/",ab,"/")
-  load(file = paste0(path,ab,"_peps_w.RData"))
-  pepsets
+  load(file = paste0(path,ab,"_pep_lcs.RData"))
+  lcs_to_peps(db_lcssets5[[ab]],pep_lcs)
 })
+
+## plot logos of biggest clusters ----
+par(mfrow = c(1,4))
+for(i in 1:4){
+  l = sapply(db_pepsets[[i]],length)
+  logoal(db_pepsets[[i]][[which.max(l)]])
+  print(max(l))
+}
+
+
 
 allfreqs = future_lapply(1:4,\(i){
+  require(igraph)
   ab = abs[i]
   path = paste0("mixed-7graphs/",ab,"/")
   load(paste0(path,ab,"big7or.RData"))
   freqs= V(G)$Freq
   names(freqs) = V(G)$name
   
-  sapply(allpepsets_w[[i]],\(set) freqs[set] )})
+  sapply(db_pepsets[[i]],\(set) freqs[set] )})
 
 logfreqs = lapply(allfreqs,\(fr) sapply(fr,\(f) round(log2(f))))
+
 logpepsets = lapply(1:4,\(i){
   lapply(1:length(logfreqs[[i]]),\(j){
     
-    rep(allpepsets_w[[i]][[j]],logfreqs[[i]][[j]])
+    rep(db_pepsets[[i]][[j]],logfreqs[[i]][[j]])
   })
 })
+
 
 
 
@@ -112,7 +178,7 @@ for(i in 1:4){
   names(logpepsets[[i]]) = clnames[[i]]
 }
 for(i in 1:4){
-  names(allpepsets_w[[i]]) = clnames[[i]]
+  names(db_pepsets[[i]]) = clnames[[i]]
 }
 
 
@@ -130,94 +196,7 @@ for(ab in abs){
 }
 
 
-
-# lcs sets ----
-all_lcssets = future_lapply(abs,\(ab){
-  path = paste0("mixed-7graphs/",ab,"/")
-  bc = "logw"
-  
-  load(paste0(path,ab,"big7-",bc,".RData"))
-  
-  load(file = paste0(path,ab,"_",bc,"_","dbscan.RData"))
-  load(file = paste0(path,ab,"_all_lcs.RData"))
-  
-  require(vctrs)
-  require(igraph)
-  require(purrr)
-  cldbsc = result_db[[1]]
-  ncl = result_db[[2]]
-  
-  cls = sort(unique(cldbsc))
-  i = which.max(components(lg)$csize)
-  lgg = subgraph(lg,V(lg)[components(lg)$membership == i])
-  
-  lcssets = lapply(cls[which(cls!=0)], function(i) V(lgg)[which(cldbsc==i)]$name)
-  lcsgsets = lapply(lcssets, \(set) {
-    sg = subgraph(lg, set)
-    c = which(igraph::components(sg)$csize >=10)
-    lcscon = lapply(c, function(ci) V(sg)[which(igraph::components(sg)$membership == ci)]$name)
-    lcscon
-  })
-  lcsgsets = list_flatten(lcsgsets)
-  names(lcsgsets) = names(allpepsets_w[[ab]][1:length(lcsgsets)])
-  lcsgsets
-})
-
-
-# merge clusters with high similarity, calculated froma scaled distance matrix ----
-
-## b12: cluster 12,13,15----
-
-peps121315 = c(allpepsets_w[[4]]$b12_12,allpepsets_w[[4]]$b12_13,allpepsets_w[[4]]$b12_15)
-printlogo(peps121315)
-allpepsets_w[[4]]$b12_1235m = peps121315
-
-## 21c cluster 9 and 10
-
-peps910 = c(allpepsets_w[[2]]$`21c_9`,allpepsets_w[[2]]$`21c_10`)
-printlogo(peps910)
-allpepsets_w[[2]]$'21c_910' = peps910
-
-
-## list without original clusters
-
-allpepsets_wm = allpepsets_w
-allpepsets_wm[[2]][9:10] = NULL
-allpepsets_wm[[4]][c(12,13,15)] = NULL
-
-
-# logpepsets ----
-allfreqs = future_lapply(1:4,\(i){
-  ab = abs[i]
-  path = paste0("mixed-7graphs/",ab,"/")
-  load(paste0(path,ab,"big7or.RData"))
-  freqs= V(G)$Freq
-  names(freqs) = V(G)$name
-  
-  sapply(allpepsets_wm[[i]],\(set) freqs[set] )})
-
-logfreqs = lapply(allfreqs,\(fr) sapply(fr,\(f) round(log2(f))))
-logpepsets = lapply(1:4,\(i){
-  lapply(1:length(logfreqs[[i]]),\(j){
-    
-    rep(allpepsets_wm[[i]][[j]],logfreqs[[i]][[j]])
-  })
-})
-
-
-
-clnames = sapply(1:4,\(i) sapply(1:length(logpepsets[[i]]),\(j) paste(abs[[i]],j,sep = "_")))
-codes = unlist(sapply(1:4,\(i) rep(abs[i],length(logpepsets[[i]]))))
-numcodes = unlist(sapply(1:4,\(i) rep(i,length(logpepsets[[i]]))))
-
-for(i in 1:4){
-  names(logpepsets[[i]]) = clnames[[i]]
-}
-for(i in 1:4){
-  names(allpepsets_wm[[i]]) = clnames[[i]]
-}
-
-save(allpepsets_wm,logpepsets, file = "cluster_pepsets.RData")
+save(db_pepsets,db_lcssets,logpepsets, file = "cluster_pepsets.RData")
 
 # make motifs of new sets ----
 
