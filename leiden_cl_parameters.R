@@ -1,7 +1,7 @@
 library(future.apply)
 library(igraph)
 library(mclust)
-source("cl_cores.R")
+source("cl_cores_functions.R")
 source("printlogo.R")
 library(universalmotif)
 abs = c("Herceptin","21c","17b","b12")
@@ -117,7 +117,7 @@ res_cpm_nw = sapply(abs,\(ab){
   path = paste0("mixed-7graphs/",ab,"/")
   load(paste0(path,ab,"big7-l.RData"))
    
-  source("cl_cores.R")
+  source("cl_cores_functions.R")
   library(igraph)
   leidcl_stats(lg,reso_nw[,ab])
   
@@ -185,7 +185,7 @@ for(i in 1:4){
 res_cpm_rw = sapply(abs,\(ab){
   path = paste0("mixed-7graphs/",ab,"/")
   load(paste0(path,ab,"big7-logw.RData"))
-  source("cl_cores.R")
+  source("cl_cores_functions.R")
   library(igraph)
   E(lg)$weight = E(lg)$weight/max(E(lg)$weight)
   res_5r = sapply(1:5,\(rn){
